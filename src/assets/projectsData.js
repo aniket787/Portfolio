@@ -6,7 +6,7 @@ export const projectsData = [
             'Lets keep is open source javascript webapp. It helps user to store personal notes and can further edit them.',
         imageUrl: 'https://images.pexels.com/photos/636237/pexels-photo-636237.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
 
-        projectUrl: 'http://theleanprogrammer.com/name-it/',
+        projectUrl: 'https://aniket787.github.io/Lets-Keep/',
     },
     {
         projectName: 'Food Cart',

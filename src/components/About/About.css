@@ -1,8 +1,13 @@
+/* body{
+    background-color: rgb(130, 231, 231);
+} */
+
 .about-main{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     padding: 60px 80px 80px 80px;
+    /* background-color: rgb(216, 216, 224); */
 }
 .about-main-left,
 .about-main-right{

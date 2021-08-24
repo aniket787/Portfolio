@@ -31,7 +31,7 @@
 }
 .bm-menu{
     /* background-color: teal; */
-    background: linear-gradient(39.97deg, #03d6f3 0.79%, #458ff6 79.29%);
+    background: linear-gradient(292deg,#38b685 0.79%, #5c98d4 79.29%);
     padding: 2.5em 1.5em 0 0;
     height: 100vh;
     overflow: hidden !important;
@@ -45,7 +45,7 @@
     position: relative;
     font-size: 2em;
     text-decoration: none;
-    color: white;
+    color: #373a47;
     font-family: Montserrat;
     font-weight: normal;
     font-style: normal;

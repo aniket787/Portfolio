@@ -27,12 +27,13 @@ const About = () => {
                     <h3 className="about-sub-head">Developer</h3>
                     <p className="about-details">
                         A good Enthusiastic learner who intends to learn new technologies and implement them as well.
+                        Intrested in open source contribution. Worked on technologies like Reactjs, Nodejs, Nextjs, etc.
                     </p>
 
 
                     <h3 className="about-sub-head">Coder</h3>
                     <p className="about-details">
-                        A good Enthusiastic learner who intends to learn new technologies and implement them as well.
+                        Have a bit intrest in data structures and algorithms. 
                     </p>
 
 

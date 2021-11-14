@@ -28,13 +28,13 @@
     margin: 10px;
 }
 
-.header-text p{
+.header-text h3{
     font-family: Poppins;
-    font-weight: 600;
-    font-size: 16px;
+    font-weight: 400;
+    font-size: 20px;
     line-height: 20px;
     color: #e5e5e5;
-    margin: 10px;
+    margin: 50px;
 }
 
 
@@ -110,6 +110,9 @@
     } 
     .head-btns{
         margin: 10px 10px 35px 10px;
+    }
+    .header-text h1{
+        font-size: 2em;
     }
 }
 

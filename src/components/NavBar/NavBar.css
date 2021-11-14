@@ -3,8 +3,9 @@
     position: fixed;
     width: 36px;
     height: 36px;
-    left: 32px;
+    left: 20px;
     top: 32px;
+   
 }
 /* color */
 .bm-burger-bars{
@@ -50,6 +51,7 @@
     font-weight: normal;
     font-style: normal;
     padding: 10px;
+    text-decoration: none;
 }
 .menu-item::before{
 
@@ -70,4 +72,11 @@
 .active-item:before{
     visibility: visible;
     height: 3px;
+}
+
+
+@media only screen and (max-width:640px){
+    .bm-burger-button{
+        left: 0;
+    }
 }

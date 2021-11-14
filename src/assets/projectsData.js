@@ -9,6 +9,22 @@ export const projectsData = [
         projectUrl: 'https://aniket787.github.io/Lets-Keep/',
     },
     {
+        projectName: 'Flash Type',
+        projectDescription:
+            "A place to check your typing speed!. Made using Reactjs where you can test your typing speed in about 1 minutes. You will also get notified when you type wrong words, number of words and characters you typed. ",
+        imageUrl: 'https://onlinetyping.org/blog/images/touch-typing-keyboard.png',
+        projectUrl: 'https://aniket787.github.io/Flash-Type/',
+    },
+
+    {
+        projectName: 'My Portfolio',
+        projectDescription:
+            'Built my own portfolio using Reactjs. A techniques like react hooks and react portals were implemented.',
+        imageUrl: 'https://cdn.pixabay.com/photo/2012/04/01/17/18/folder-23610__340.png',
+
+        projectUrl: 'https://aniket787.github.io/Portfolio/#/',
+    },
+    {
         projectName: 'Food Cart',
         projectDescription:
             'A simple Food Card website maade using HTML, CSS. ',
@@ -16,29 +32,13 @@ export const projectsData = [
 
         projectUrl: 'https://aniket787.github.io/Food-Cart/',
     },
+
     {
-        projectName: 'My Portfolio',
+        projectName: 'Hackerrank Automation',
         projectDescription:
-            'Built my own portfolio using Reactjs. A techniques like react hooks and react portals were implemented.',
-        imageUrl: 'https://cdn.pixabay.com/photo/2012/04/01/17/18/folder-23610__340.png',
-        videoUrl:
-            'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
-        projectUrl: 'https://aniket787.github.io/Portfolio/#/',
-    },
-    // {
-    //     projectName: 'PokeDex',
-    //     projectDescription:
-    //         "Pokemon was a huge part of our childhood, wasn't it? Talking about pokemon brings back so many memories, but do you remember the details of each pokemon? Probably No! So here I bring you a pokedex to check all pokemons :)",
-    //     imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj4.PNG',
-    //     
-    //     projectUrl: 'http://theleanprogrammer.com/pokedex/',
-    // },
-    // {
-    //     projectName: 'Portfolio Website',
-    //     projectDescription:
-    //         'As a developer/designer, you should definitely have your own portfolio website.  So here I bring you a tutorial to make your own website.',
-    //     imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj5.PNG',
-    //    
-    //     projectUrl: 'http://madhavbahl.tech/portfolio/',
-    // },
+            'Hackerrank Automation is a tool which can be used to add moderators in hackerrank contests without clicking a single button.The script will automatically make a login and add moderator to contest and save it. The language used in project is Javascript and concepts like async - await, waitforselector, timer, loops, etc is used.This was acheived with help of Puppeteer technology(tool).',
+        imageUrl: 'https://entrackr.com/wp-content/uploads/2018/02/hackerrank-image.jpg',
+       
+        projectUrl: 'https://github.com/aniket787/Hackerrank-Automation',
+    }
 ];
